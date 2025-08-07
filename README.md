@@ -65,9 +65,8 @@ Welcome to my GitHub! I'm passionate about **System Analysis**, **Requirement En
   - Validated workflows to ensure alignment with business needs
 
 - 📂 **Tools**:
-  - Draw.io (Diagrams)
+  - Draw.io, StarUML (Diagrams)
   - Google Docs (Documentation)
-  - Excel (UAT Test Script and Scenario Mapping)
 
 ➡️ [HelpDeskNodeJS](https://github.com/Setthaphong-JIapia/HelpDeskNodeJS)
 
