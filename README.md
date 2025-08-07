@@ -69,7 +69,7 @@ Welcome to my GitHub! I'm passionate about **System Analysis**, **Requirement En
   - Google Docs (Documentation)
   - Excel (UAT Test Script and Scenario Mapping)
 
-➡️ [https://example.com](https://github.com/Setthaphong-JIapia/HelpDeskNodeJS)
+➡️ [HelpDeskNodeJS](https://github.com/Setthaphong-JIapia/HelpDeskNodeJS)
 
 ---
 
