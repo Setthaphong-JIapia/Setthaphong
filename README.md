@@ -72,18 +72,9 @@ Welcome to my GitHub! I'm passionate about **System Analysis**, **Requirement En
 
 ---
 
-### Project 2: 
-- 📝 **Description**: Built wireframes for a warehouse inventory tracking app to demonstrate user interaction.  
-- 🎯 Goal: Help developers understand interface logic clearly.  
-- 📂 **Tools**: Figma, Lucidchart  
-
-➡️ [View Wireframe](https://example.com)
-
----
-
 ## 📂 Open Source or Practice Projects
 
-### Project 3: AI Chatbot for Cooperative Education (in progress)
+### Project 2: AI Chatbot for Cooperative Education (in progress)
 - 🤖 **Description**:  
   Developing an AI-powered chatbot to answer frequently asked questions (FAQs) about the cooperative education program in the Faculty of Informatics.
 
