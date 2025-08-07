@@ -72,7 +72,7 @@ Welcome to my GitHub! I'm passionate about **System Analysis**, **Requirement En
 
 ---
 
-### Project 2: Inventory Tracking Wireframe
+### Project 2: 
 - 📝 **Description**: Built wireframes for a warehouse inventory tracking app to demonstrate user interaction.  
 - 🎯 Goal: Help developers understand interface logic clearly.  
 - 📂 **Tools**: Figma, Lucidchart  
@@ -83,12 +83,26 @@ Welcome to my GitHub! I'm passionate about **System Analysis**, **Requirement En
 
 ## 📂 Open Source or Practice Projects
 
-### Project 3: Requirement Template Generator (in progress)
-- 🧠 Tool for generating structured templates for requirement gathering, wireframes, and user flow
-- 💻 Built using Python + Google Docs API
+### Project 3: AI Chatbot for Cooperative Education (in progress)
+- 🤖 **Description**:  
+  Developing an AI-powered chatbot to answer frequently asked questions (FAQs) about the cooperative education program in the Faculty of Informatics.
 
-➡️ [GitHub Repository](https://github.com/yourusername/requirement-template-generator)
+- 🧠 **Features**:
+  - Natural language understanding with **RAG (Retrieval-Augmented Generation)** for accurate and up-to-date responses
+  - Integration with **LINE Messaging API** for real-time interaction with students
+  - Automated data flow using **n8n** for fetching documents, scheduling updates, and logging questions
 
+- ⚙️ **Tech Stack**:
+  - `n8n` (workflow automation)
+  - `LINE Messaging API`
+  - `OpenAI / LLM API` (for RAG)
+  - `Pinecone / FAISS` (vector search)
+  - Google Sheets / Docs as knowledge base sources
+
+- 📌 **Goals**:
+  - Reduce repetitive workload for admin staff
+  - Provide students with 24/7 access to cooperative education information
+  - Collect chat logs to improve future responses and identify knowledge gaps
 ---
 
 > _“The goal of system analysis is not just documentation, but alignment between human needs and system behavior.”_
