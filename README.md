@@ -48,13 +48,28 @@ Welcome to my GitHub! I'm passionate about **System Analysis**, **Requirement En
 
 ## 📁 Projects related to System Analysis
 
-### Project 1: HR Recruitment System Requirements
-- 📝 **Description**: Designed business requirement documents for an HR recruitment web application.  
-- 📌 Created use case diagrams, user stories, and user flow.  
-- 🔍 Conducted mock UAT testing with simulated data.  
-- 📂 **Tools**: Draw.io, Google Docs, Excel  
+### Project 1: HelpDeskNodeJS
+- 📝 **Description**:  
+  Designed and analyzed a Help Desk Ticketing System with a built-in Knowledge Base. This project aims to simulate a real-world IT support scenario where users can submit tickets, and admins/technicians can track and resolve issues efficiently.
 
-➡️ [View Document (Google Drive)](https://example.com)
+- 📌 **Deliverables**:
+  - Use Case Diagram
+  - User Flow Diagram
+  - Functional Requirements Specification (FRS)
+  - Mock UAT Test Cases
+
+- 🔍 **Analysis Tasks Performed**:
+  - Identified key actors: User, Admin, Technician
+  - Mapped user journeys and system interactions
+  - Created realistic UAT test cases to simulate end-user behavior
+  - Validated workflows to ensure alignment with business needs
+
+- 📂 **Tools**:
+  - Draw.io (Diagrams)
+  - Google Docs (Documentation)
+  - Excel (UAT Test Script and Scenario Mapping)
+
+➡️ [https://example.com](https://github.com/Setthaphong-JIapia/HelpDeskNodeJS)
 
 ---
 
